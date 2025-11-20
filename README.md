@@ -10,7 +10,7 @@ Finite Element Analysis (FEA) reports comparing the monolithic FDM design vs. th
 - **Formats:** HTML reports exported from Fusion 360.
 
 ### 2. Fabrication Process (`/02_linkage_fabrication_gcode`)
-https://youtu.be/Do7YRbkYg8k?si=tqd1KRPBfQMFofAA
+The full XDM fabrication process video: https://youtu.be/Do7YRbkYg8k?si=tqd1KRPBfQMFofAA
 The G-code file generated for the XDM Mechanical Linkage, demonstrating the multi-process printing sequence.
 - **Machine:** Custom XDM Platform.
 - **Processes:** FDM extrusion, Gripper insert, DIW dispensing.
@@ -18,7 +18,9 @@ The G-code file generated for the XDM Mechanical Linkage, demonstrating the mult
 ### 3. (Figure 8) Mechanical Testing (`/03_linkage_mechanical_testing_tensile`)
 Raw data from uniaxial tensile testing of mechanical linkages (Figure 8 in manuscript).
 - **Format:** Individual `.csv` files for each specimen.
-- **Metadata:** See `metadata.csv` for specimen dimensions (Area, Gauge Length) and test parameters.
+- **Specimen Geometry:** Modified dogbone standard based on the provided CAD.
+    - **Cross-sectional Area:** 40 mm² (10 mm width × 4 mm thickness)
+    - **Gauge Length:** 50 mm
 - **Images:** Origin and Fractured specimen photos are provided in the `images/` directory.
 
 **Supatpromrungsee Saetia**
