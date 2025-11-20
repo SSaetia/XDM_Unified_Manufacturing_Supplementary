@@ -10,7 +10,9 @@ Finite Element Analysis (FEA) reports comparing the monolithic FDM design vs. th
 - **Formats:** HTML reports exported from Fusion 360.
 
 ### 2. Fabrication Process (`/02_linkage_fabrication_gcode`)
-The full XDM fabrication process video: https://youtu.be/Do7YRbkYg8k?si=tqd1KRPBfQMFofAA
+The full XDM fabrication process video: 
+https://youtu.be/Do7YRbkYg8k?si=tqd1KRPBfQMFofAA
+
 The G-code file generated for the XDM Mechanical Linkage, demonstrating the multi-process printing sequence.
 - **Machine:** Custom XDM Platform.
 - **Processes:** FDM extrusion, Gripper insert, DIW dispensing.
