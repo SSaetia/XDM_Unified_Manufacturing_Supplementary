@@ -25,5 +25,9 @@ Raw data from uniaxial tensile testing of mechanical linkages (Figure 8 in manus
     - **Gauge Length:** 50 mm
 - **Images:** Origin and Fractured specimen photos are provided in the `images/` directory.
 
+### 4. CAD Design (`/04_linkage_cad`)
+The reference 3D model of the mechanical linkage used for testing.
+- **File:** `linkage.step` (Standard STEP format).
+
 **Supatpromrungsee Saetia**
 *Department of Mechanical Engineering, Chulalongkorn University*
